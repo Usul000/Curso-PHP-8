@@ -17,45 +17,49 @@ PHP en 2026: más vivo que nunca
 Quizás hayas escuchado que "PHP está muerto". Nada más lejos de la realidad. PHP ha experimentado una transformación radical en los últimos años:
 
 Versión	Año	Novedades destacadas
-PHP 7	2015	Mejoras de rendimiento de hasta un 200%
-PHP 8.0	2020	JIT compilation, union types, match expressions
-PHP 8.1	2021	Enums, fibers, readonly properties
-PHP 8.2	2022	Readonly classes y mejoras en tipos
-PHP 8.3	2023	Tipado mejorado y nuevas funciones
-PHP 8.4 / 8.5	2024-2025	Continúan la evolución del lenguaje
+* PHP 7	2015	Mejoras de rendimiento de hasta un 200%
+* PHP 8.0	2020	JIT compilation, union types, match expressions
+* PHP 8.1	2021	Enums, fibers, readonly properties
+* PHP 8.2	2022	Readonly classes y mejoras en tipos
+* PHP 8.3	2023	Tipado mejorado y nuevas funciones
+* PHP 8.4 / 8.5	2024-2025	Continúan la evolución del lenguaje
 
 El PHP moderno es un lenguaje tipado, con características de programación funcional y orientada a objetos, respaldado por un ecosistema maduro de herramientas y frameworks.
 
-¿Qué puedes construir con PHP?
+¿Qué puedes construir con [PHP](https://www.php.net/)?
 🌐 Sitios web dinámicos — Blogs, portfolios, páginas corporativas
 🛒 Tiendas online — E-commerce con WooCommerce, Magento, PrestaShop
 💼 Aplicaciones web — SaaS, dashboards, sistemas de gestión
 🔌 APIs REST — Backends para aplicaciones móviles y SPAs
 📝 CMS — WordPress, Drupal, Joomla
 ⚙️ Herramientas CLI — Scripts de automatización y comandos
-¿Por qué aprender PHP en 2026?
-Demanda laboral: miles de empresas buscan desarrolladores PHP; WordPress por sí solo impulsa una parte enorme de todos los sitios web, por lo que hay trabajo de sobra.
-Curva de aprendizaje amigable: puedes empezar a ver resultados desde el primer día, lo que mantiene la motivación alta.
-Ecosistema maduro: frameworks como Laravel y Symfony, junto con herramientas como Composer, hacen que desarrollar sea un placer.
-Hosting económico: prácticamente cualquier hosting soporta PHP, lo que abarata y facilita el despliegue.
-Comunidad enorme: documentación abundante, tutoriales y una gran cantidad de respuestas disponibles ante cualquier problema.
+
+¿Por qué debes aprender PHP en 2026?
+* Demanda laboral: miles de empresas buscan desarrolladores PHP; WordPress por sí solo impulsa una parte enorme de todos los sitios web, por lo que hay trabajo de sobra.
+* Curva de aprendizaje amigable: puedes empezar a ver resultados desde el primer día, lo que mantiene la motivación alta.
+* Ecosistema maduro: frameworks como Laravel y Symfony, junto con herramientas como Composer, hacen que desarrollar sea un placer.
+* nHosting económico: prácticamente cualquier hosting soporta PHP, lo que abarata y facilita el despliegue.
+* Comunidad enorme: documentación abundante, tutoriales y una gran cantidad de respuestas disponibles ante cualquier problema.
 
 El camino después de PHP es natural: una vez lo domines, el salto a frameworks como Laravel resulta sencillo, y las habilidades adquiridas (lógica de programación, bases de datos, HTTP, APIs) te servirán para cualquier otro lenguaje que quieras aprender después.
 
 📚 Lo que vas a aprender (Módulos)
-Fundamentos modernos de PHP — Sintaxis, programación orientada a objetos (OOP) y Composer.
-Introducción a Laravel — Arquitectura MVC, rutas, controladores, solicitudes y vistas (Blade).
-Bases de datos y Eloquent ORM — Migraciones, seeders, factories, relaciones y Query Builder.
-Frontend integrado — Interfaces adaptativas con Tailwind CSS, Vite y Alpine.js (o Vue.js/React, según el curso).
-Autenticación y seguridad — Laravel Breeze/Jetstream, middleware, gates y políticas.
-API RESTful — Creación de endpoints, consumo mediante JavaScript y Laravel Sanctum.
-Calidad del código — Pruebas automatizadas con Pest o PHPUnit.
-Despliegue y DevOps — Preparación para producción, Docker (opcional) y buenas prácticas de CI/CD.
+1. Fundamentos modernos de PHP — Sintaxis, programación orientada a objetos (OOP) y Composer.
+2. Introducción a Laravel — Arquitectura MVC, rutas, controladores, solicitudes y vistas (Blade).
+3. Bases de datos y Eloquent ORM — Migraciones, seeders, factories, relaciones y Query Builder.
+4. Frontend integrado — Interfaces adaptativas con Tailwind CSS, Vite y Alpine.js (o Vue.js/React, según el curso).
+5. Autenticación y seguridad — Laravel Breeze/Jetstream, middleware, gates y políticas.
+6. API RESTful — Creación de endpoints, consumo mediante JavaScript y Laravel Sanctum.
+7. Calidad del código — Pruebas automatizadas con Pest o PHPUnit.
+8. Despliegue y DevOps — Preparación para producción, Docker (opcional) y buenas prácticas de CI/CD.
+
+
 🛠️ Tecnologías utilizadas
 Backend: PHP 8.3+, Laravel 11.x
 Frontend: Blade, Tailwind CSS, Vite, Alpine.js
 Base de datos: MySQL / PostgreSQL
 Herramientas: Git, Composer, Node.js, Postman/Insomnia
+
 ⚙️ Requisitos previos
 
 Antes de empezar, asegúrate de tener instalado en tu equipo:
