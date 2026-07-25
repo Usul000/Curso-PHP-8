@@ -15,7 +15,7 @@ Despliegue y DevOps: Preparación para producción, Docker (opcional) y buenas p
 
 🛠️ Tecnologías utilizadas
 
-Backend: PHP 8.2+, Laravel 11.x
+Backend: PHP 8.3+, Laravel 11.x
 Frontend: Blade, Tailwind CSS, Vite, Alpine.js
 Base de datos: MySQL / PostgreSQL
 Herramientas: Git, Composer, Node.js, Postman/Insomnia
@@ -32,8 +32,8 @@ Git
 💻 Cómo ejecutar el proyecto localmente
 Sigue los pasos que se indican a continuación para configurar el entorno de desarrollo:
 Clona el repositorio:
-Comando SQL para crear la tabla USERSCreate Database celke CHARACTER SET utf8mb4 COLATE utf8mb4_unicode_ci;
-git clone https://github.com/GVScode/FullstackPHP.git
+Comando SQL para crear la tabla USERSCreate Database  CHARACTER SET utf8mb4 COLATE utf8mb4_unicode_ci;
+git clone [https://github.com/GVScode/FullstackPHP.git](https://github.com/Usul000/Curso-PHP-)
 
 CREATE TABLE IF NO EXISTS users ( id int NOT NULL AUTO_INCREMENT, name varchar (220) COLLATE utf8mb4_unicode_ci NOT NULL, 
 email varchar(220) COLLATE utf8mb4_unicode_ci NOT NULL, PRIMARY KEY (id) )ENGINE=INNODB DEFAULT CHARACTER=utf8mb4 COLLATE utf8mb4_unicode_ci;
