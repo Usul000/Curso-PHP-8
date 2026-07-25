@@ -116,8 +116,8 @@ Visita http://localhost:8000 para ver la aplicación en marcha.
 📂 Estructura del repositorio
 Curso-PHP-8/
 ├── Fundamentos de programación/          # Código y ejercicios desde cero hasta Laravel
-├── Proyectos final/  # Proyecto final del curso
-├── Recursos/        # Material de apoyo, diagramas, apuntes
+├── Programación Orientada a objetos o POO
+├── Ejercicios y ejemplos
 └── README.md
 
 (Ajusta esta estructura según cómo esté organizado realmente tu repositorio.)
